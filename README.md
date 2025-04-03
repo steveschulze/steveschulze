@@ -8,6 +8,9 @@ To make it easier to navigate among the repositories.
 ### Photometry tools
 - [Aperture photometry](https://github.com/steveschulze/Photometry)
 
+### ZTF alert filtering
+- [Infant SN filter for the AMPEL Broker](https://github.com/steveschulze/Ampel-Weizmann)
+
 ### GRBs
 - [Computing the isotropic equivalent energy of GRBs](https://github.com/steveschulze/GRB_Eiso)
 - [R-band light curve of GRB afterglows from D. A. Kann](https://github.com/steveschulze/kann_optical_afterglows)
