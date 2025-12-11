@@ -22,6 +22,10 @@ To make it easier to navigate among the repositories.
 - [Modified version of the PyNOT pipeline](https://github.com/steveschulze/PyNOT) (reduces images and spectra of NOT/ALFOSC and NTT/EFOSC2)
 - [NOT PypeIt](https://github.com/steveschulze/NOT_PypeIt) (Wrapper for PypeIt to reduce NOT/ALFOSC data rapidly.)
 
+### Notes on data reduction (FORS2, X-shooter, Swift, JWST, Prospector)
+- [Notes](https://github.com/steveschulze/data_reduction_guides) (🔒)
+
+
 <!--
 **steveschulze/steveschulze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
