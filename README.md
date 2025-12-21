@@ -17,6 +17,7 @@ To make it easier to navigate among the repositories.
 
 ### Photometry tools
 - [Aperture photometry](https://github.com/steveschulze/Photometry)
+- [Hotpants](https://github.com/steveschulze/hotpants) (fork of hotpants 5.1.11 that can be compiled on Mac Silicon archicture)
 
 ### Pipelines
 - [Modified version of the PyNOT pipeline](https://github.com/steveschulze/PyNOT) (reduces images and spectra of NOT/ALFOSC and NTT/EFOSC2)
