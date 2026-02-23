@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-To make it easier to navigate among the repositories.
+I am a scientist at the Department of Particle Physics & Astrophysics at the Weizmann Institute of Science. My research focuses on extragalactic transients (primarily core-collapse supernovae, but occasionally also GRBs) and their host galaxy demographics. This GitHub page contains data products from papers and tools for data reduction and analysis.
 
 ### Data products from my papers
 - [Catalogue of the PTF CCSN host galaxy sample](https://github.com/steveschulze/PTF)
@@ -23,7 +23,7 @@ To make it easier to navigate among the repositories.
 - [Modified version of the PyNOT pipeline](https://github.com/steveschulze/PyNOT) (reduces images and spectra of NOT/ALFOSC and NTT/EFOSC2)
 - [NOT PypeIt](https://github.com/steveschulze/NOT_PypeIt) (Wrapper for PypeIt to reduce NOT/ALFOSC data rapidly.)
 
-### Notes on data reduction (FORS2, X-shooter, Swift, JWST, Prospector)
+### Notes on and tools for data reduction (FORS2, X-shooter, Swift, JWST, Prospector)
 - [Notes](https://github.com/steveschulze/data_reduction_guides) (🔒)
 
 
