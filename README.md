@@ -14,6 +14,7 @@ I am a scientist at the Department of Particle Physics & Astrophysics at the Wei
 
 ### Observing tools
 - [Tools for the Nordic Optical Telescope](https://github.com/steveschulze/NOT_Observing_Tools)
+- [AstroScout (Tool to query 31 different archives)](https://github.com/steveschulze/AstroScout) (🔒)
 
 ### Photometry tools
 - [Aperture photometry](https://github.com/steveschulze/Photometry)
